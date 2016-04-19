@@ -1,0 +1,56 @@
+.pager{
+    height: 250px;
+    width: 400px;
+}
+
+.pager-navi{
+    height: 50px;
+}
+
+.button {
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 2px;
+    border: none;
+    height: 45px;
+    line-height:45px;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 5px; }
+.button.sm {
+    width: 10%; }
+.button.md {
+    width: 60%; }
+.button.lg {
+    width: 90%; }
+.button.ghost {
+    background-color: transparent;
+    color: #2a282b;
+    border: 1px solid #2a282b;
+    transition: .2s ease; }
+.button.ghost:hover {
+    background-color: #2a282b;
+    color: white;
+    transition: .2s ease; }
+.button.cta {
+    background-color: #2a282b;
+    color: white;
+    transition: .2s ease; }
+.button.cta:hover {
+    background-color: #1d1c1e;
+    transition: .2s ease; }
+
+
+.pager-back-button{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    line-height: 40px;
+}
+
+.pager-forward-button{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    line-height: 40px;
+}
