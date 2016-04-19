@@ -13,3 +13,4 @@ Create a new Pager object right in your markup, and let Pager do all the work!
 
 ```var pager = new Pager(data, inputsPerPage);```
 
+![alt text](https://github.com/Logicium/Pager/blob/master/Pager/PagerDemo.PNG "Pager Demo image")
